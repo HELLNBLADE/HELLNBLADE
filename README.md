@@ -8,6 +8,9 @@ I am on the mission to contribute to this dynamic field and make a positive effe
 During my academic journey,I have the opportunity to work on various projects, gaining hands-on experience in applying AI and ML algorithms to real-world problems.
 Let's chat about coding, projects, or anything related to AI and ML.
 
+## PRONOUNS 😁 : 
+HE/HIM
+
 ## Learning 🌱
 - C
 - C++
@@ -31,8 +34,6 @@ Let's chat about coding, projects, or anything related to AI and ML.
 
 ## Projects 🗃️
 - COMING SOON...
-
-##😄 Pronouns: HE/HIM
 
 ## WILLING 🤝 : 
 To work as an Intern after the completion of 1st year
