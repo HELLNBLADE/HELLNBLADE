@@ -1,4 +1,4 @@
-# Hello there 👋 ! 
+# Hello there 👋 
 
 ## About Me 🤔
 I'm Abhinav Shakya 😎 , a passionate Computer Science Engineering student with specialization in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology.  
