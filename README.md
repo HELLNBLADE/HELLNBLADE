@@ -26,27 +26,15 @@ Let's chat about coding, projects, or anything related to AI and ML.
 - CODING
 
 ## Education 🏫
-- 
+- 10th and 12th , GREENFIELDS PUBLIC SCHOOL , PASSED OUT :- 2023..
 - B.Tech - CSE with specialization in Artificial Intelligence And Machine Learning , SRM INSTUITUTE OF SCIENCE AND TECHNOLOGY , 2023-2027...
-- 
 
-## Experience
-- **[Job Title]**, [Company/Organization], [Date Range]
-  Description: [Brief description of your responsibilities and achievements]
-- **[Job Title]**, [Company/Organization], [Date Range]
-  Description: [Brief description of your responsibilities and achievements]
-- ...
-
-## Projects
-- **[Project Name]**: [Brief description of the project]
-  - [Link to project repository or website]
-- **[Project Name]**: [Brief description of the project]
-  - [Link to project repository or website]
-- ...
+## Projects 🗃️
+- COMING SOON...
 
 ## Contact
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: abhinavshakya063@gmil.com
+- LinkedIn: https://www.linkedin.com/in/abhinav-shakya-a6ab28244/
 - Twitter: [Your Twitter Handle]
 - Website: [Your Personal Website URL]
 
