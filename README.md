@@ -32,9 +32,10 @@ Let's chat about coding, projects, or anything related to AI and ML.
 ## Projects 🗃️
 - COMING SOON...
 
+##😄 Pronouns: HE/HIM
+
 ## Contact
 - Email: abhinavshakya063@gmil.com
 - LinkedIn: https://www.linkedin.com/in/abhinav-shakya-a6ab28244/
-- Twitter: [Your Twitter Handle]
-- Website: [Your Personal Website URL]
+
 
