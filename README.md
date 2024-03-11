@@ -34,6 +34,9 @@ Let's chat about coding, projects, or anything related to AI and ML.
 
 ##😄 Pronouns: HE/HIM
 
+## WILLING 🤝 : 
+To work as an Intern after the completion of 1st year
+
 ## Contact
 - Email: abhinavshakya063@gmil.com
 - LinkedIn: https://www.linkedin.com/in/abhinav-shakya-a6ab28244/
