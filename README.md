@@ -20,13 +20,15 @@ Let's chat about coding, projects, or anything related to AI and ML.
 ## Interests 🤩
 - ROBOTICS 
 - ARTIFICIAL NEURAL NETWORKS  
-- 
-- ...
+- MORDERN TECHNOLOGY
+- MACHINE LEARNING
+- WEBSITE BUILDING
+- CODING
 
-## Education
-- B.Tech - CSE with specialization in , [University/Institution], [Year]
-- [Degree], [University/Institution], [Year]
-- ...
+## Education 🏫
+- 
+- B.Tech - CSE with specialization in Artificial Intelligence And Machine Learning , SRM INSTUITUTE OF SCIENCE AND TECHNOLOGY , 2023-2027...
+- 
 
 ## Experience
 - **[Job Title]**, [Company/Organization], [Date Range]
